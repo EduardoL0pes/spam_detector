@@ -1,0 +1,5 @@
+label,text
+ham,"Olá, tudo bem? Estou enviando essa mensagem para confirmar nossa reunião."
+spam,"GANHE DINHEIRO AGORA! Clique aqui e ganhe prêmios grátis!"
+ham,"Por favor, me avise quando chegar à escola."
+spam,"Parabéns! Você foi selecionado para ganhar um iPhone novo. Clique já!"
